@@ -8,4 +8,4 @@
      
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/CrybabyV2FE/main/CrybabyV3%20FE", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/CrybabyV2FE/main/CrybabyV2%20FE", true))()
